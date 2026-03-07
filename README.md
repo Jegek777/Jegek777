@@ -1,26 +1,57 @@
-## Salve seus comedias 👋
-<img align="right" height="150" src="[https://br.pinterest.com/pin/390476230213147936/](https://www.google.com/imgres?q=kurumi%20tokisaki%20icon&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F93%2F336%2F983%2Fanime-date-a-live-kurumi-tokisaki-hd-wallpaper-thumb.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-date-a-live-kurumi-tokisaki-wallpaper-gxjgm&docid=2F1czxIjDgGZsM&tbnid=MbBkR_A7B0WjiM&vet=12ahUKEwiStaD6846TAxWqErkGHR3VF_44ChCc8A56BAheEAE..i&w=526&h=310&hcb=2&itg=1&ved=2ahUKEwiStaD6846TAxWqErkGHR3VF_44ChCc8A56BAheEAE).png"/>
+
+<img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
+
+<h2 align="center">Salve seus comédias 👋</h2>
 
 <p align="center">
 ✨ Estudando todas as linguagens existentes do mundo
-<p align="center">
-🔥 Maior farmador de aura da historia
-<p align="center">
-🎭 O fã Numero 1 de Persona 4 (Vulgo melhor jogo já feito)
-<p align="center">
-🥖 Gosto de coxinha, e nunca passei mal tomando leite]
-<p align="center">
-📚 Conhecimento geral sobre animes e obras animadas feitas para um publico maior (H3nt@1)
-<p align="center">
-🎵 Zerei todos os instrumentos tocaveis incluindo a gloriosa
-<p align="center">
-🎮 Sou encarregado pela historia de um jogo pika com alguns fudidos mais pikas ainda
+</p>
 
-![Jegek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+<p align="center">
+🔥 Maior farmador de aura da história
+</p>
 
-<p> <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=red"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red"/> </p>
+<p align="center">
+🎭 O fã número 1 de Persona 4 (Vulgo melhor jogo já feito)
+</p>
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&icon_color=ff0000"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000000&title_color=ff0000"/> </p>
+<p align="center">
+🥖 Gosto de coxinha, e nunca passei mal tomando leite
+</p>
+
+<p align="center">
+📚 Conhecimento geral sobre animes e obras animadas feitas para um público maior
+</p>
+
+<p align="center">
+🎵 Zerei todos os instrumentos tocáveis incluindo a gloriosa
+</p>
+
+<p align="center">
+🎮 Sou encarregado pela história de um jogo pika com alguns fudidos mais pikas ainda
+</p>
+
+---
+
+## 📊 Estatísticas fodas
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000000&title_color=ff0000"/>
+</p>
+
+---
+
+## 🚀 Linguagens
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=red"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=red"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red"/>
+</p>
+
+---
 
 <div align="center">
 
@@ -31,7 +62,7 @@
       <stop offset="100%" style="stop-color:#8B0000;stop-opacity:1" />
     </linearGradient>
 
-  <filter id="glow">
+    <filter id="glow">
       <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
@@ -49,7 +80,12 @@
 </svg>
 
 </div>
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ```
-
-
-## 🐍 Contribuições <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
