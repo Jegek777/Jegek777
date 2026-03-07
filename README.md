@@ -1,7 +1,4 @@
-
-<img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
-
-<h2 align="center">Salve seus comédias 👋</h2>
+<h2 align="center">Salve seus comédias 👋</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
 
 <p align="center">
 ✨ Estudando todas as linguagens existentes do mundo
@@ -30,7 +27,8 @@
 <p align="center">
 🎮 Sou encarregado pela história de um jogo pika com alguns fudidos mais pikas ainda
 </p>
-
+ <p align="center"> 
+  
 ---
 
 ## 📊 Estatísticas fodas
@@ -62,7 +60,7 @@
       <stop offset="100%" style="stop-color:#8B0000;stop-opacity:1" />
     </linearGradient>
 
-    <filter id="glow">
+  <filter id="glow">
       <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
