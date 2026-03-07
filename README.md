@@ -1,7 +1,7 @@
 <h2 align="center">Salve seus comédias 👋</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
 
 <p align="center">
-✨ Estudando todas as linguagens existentes do mundo
+✨ Estudando ainda mais todas as linguagens existentes do mundo
 </p>
 
 <p align="center">
@@ -31,23 +31,67 @@
   
 ---
 
-## 📊 Estatísticas fodas
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000000&title_color=ff0000"/>
-</p>
-
----
-
-## 🚀 Linguagens
+## 🧠 Linguagens que eu sei
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=red"/>
 <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=red"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=red"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=red"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=red"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=red"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=red"/>
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=red"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=red"/>
+<img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=red"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=red"/>
+<img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=red"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=red"/>
+<img src="https://img.shields.io/badge/Scala-000000?style=for-the-badge&logo=scala&logoColor=red"/>
+<img src="https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=red"/>
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=red"/>
+<img src="https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Cobol-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Fortran-000000?style=for-the-badge&logoColor=red"/>
 </p>
+🔥 Aprendi essas em um final de semana vendo tutorial indiano em 2x </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Julia-000000?style=for-the-badge&logo=julia&logoColor=red"/>
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=red"/>
+<img src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=red"/>
+<img src="https://img.shields.io/badge/Vala-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=red"/>
+<img src="https://img.shields.io/badge/Squirrel-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Red-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Rebol-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Pony-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Mercury-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Idris-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Chapel-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Erlang-000000?style=for-the-badge&logo=erlang&logoColor=red"/>
+<img src="https://img.shields.io/badge/Pike-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/KornShell-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=red"/>
+<img src="https://img.shields.io/badge/ReasonML-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/UnrealScript-000000?style=for-the-badge&logoColor=red"/>
+<img src="https://img.shields.io/badge/Haxe-000000?style=for-the-badge&logo=haxe&logoColor=red"/>
+<img src="https://img.shields.io/badge/V-000000?style=for-the-badge&logoColor=red"/>
+
+</p>
+
+<p align="center">
+</p>
+```
+
+<p align="center">
+💀 "O titulo de "Especialista em todas as linguagens existentes" não é atoa não lendário"
+</p>
+```
+
 
 ---
 
