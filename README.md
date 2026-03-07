@@ -1,5 +1,5 @@
 ## Salve seus comedias 👋
-<img align="right" height="150" src="https://br.pinterest.com/pin/390476230213147936/.png"/>
+<img align="right" height="150" src="[https://br.pinterest.com/pin/390476230213147936/](https://www.google.com/imgres?q=kurumi%20tokisaki%20icon&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F93%2F336%2F983%2Fanime-date-a-live-kurumi-tokisaki-hd-wallpaper-thumb.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-date-a-live-kurumi-tokisaki-wallpaper-gxjgm&docid=2F1czxIjDgGZsM&tbnid=MbBkR_A7B0WjiM&vet=12ahUKEwiStaD6846TAxWqErkGHR3VF_44ChCc8A56BAheEAE..i&w=526&h=310&hcb=2&itg=1&ved=2ahUKEwiStaD6846TAxWqErkGHR3VF_44ChCc8A56BAheEAE).png"/>
 
 <p align="center">
 ✨ Estudando todas as linguagens existentes do mundo
