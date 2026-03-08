@@ -1,4 +1,4 @@
-<h2 align="center">Salve seus comédias 👋</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
+<h2 align="center">======Salve seus comédias 👋=======</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
 
 <p align="center">
 ✨ Estudando ainda mais todas as linguagens existentes do mundo
