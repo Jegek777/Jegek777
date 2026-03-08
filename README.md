@@ -1,4 +1,10 @@
-<h2 align="center">======Salve seus comédias 👋=======</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:🔥FF0000&height=160&section=header&text=%20Salve%🔥seus🔥%20comedias%20🔥%20%20&fontSize=38&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+
+
+<h2 align="center">======Jegek,Apenas 👋=======</h2>    <img align="right" height="150" src="https://preview.redd.it/wallpaper-tokisaki-kurumi-v0-bmn6t36soyn81.jpg?width=1080&crop=smart&auto=webp&s=18575619a6d0a1a3c3915f6d91ca52c6b9419c5e"/>
 
 <p align="center">
   <a href="mailto:jeanjgkjgk9812@gmail.com">
