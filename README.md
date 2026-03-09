@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-📚 Conhecimento geral sobre animes e obras animadas feitas para um público maior
+📚 Conhecimento geral sobre animes e obras animadas 
 </p>
 
 <p align="center">
