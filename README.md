@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-🎵 Zerei todos os instrumentos tocáveis incluindo a gloriosa
+🎵 Zerei todos os instrumentos tocáveis
 </p>
 
 <p align="center">
