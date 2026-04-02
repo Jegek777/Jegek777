@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-🥖 Gosto de coxinha, e nunca passei mal tomando leite
+🥖 Gosto de coxinha
 </p>
 
 <p align="center">
